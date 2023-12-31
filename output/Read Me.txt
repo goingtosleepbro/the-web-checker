@@ -1,1 +1,2 @@
-All Outputs will be stored here with the folder name as the domain name
+All Outputs will be stored here with the folder name as the domain name.
+U can delete this file tho
