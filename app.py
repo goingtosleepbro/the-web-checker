@@ -159,3 +159,4 @@ if __name__ == "__main__":
             break
         else:
             print("\n" + Fore.YELLOW + "Invalid option. Please select a valid option." + Style.RESET_ALL)
+            print("\n" + "Enter the correct option")

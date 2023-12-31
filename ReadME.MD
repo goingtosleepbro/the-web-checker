@@ -32,4 +32,4 @@ The output of the vuln's are stored in the output folder in a .txt file format.
 For further doubts, contact me on linkedIn www.linkedin.com/in/amir-zak
 
 
-You can test the tool on the following website too https://vulnscan.zakarias.in
+You can test the tool on the following website too https://vulnscan.zakarias.in - this is still under dev, keep watching
