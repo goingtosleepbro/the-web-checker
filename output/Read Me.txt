@@ -1,0 +1,1 @@
+All Outputs will be stored here with the folder name as the domain name
